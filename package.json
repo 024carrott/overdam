@@ -1,0 +1,23 @@
+{
+  "name": "overdam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch": "node-sass -w scss/ -o css/ --output-style expanded --source-map true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/024carrott/overdam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/024carrott/overdam/issues"
+  },
+  "homepage": "https://github.com/024carrott/overdam#readme"
+}
